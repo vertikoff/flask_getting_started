@@ -47,5 +47,5 @@ def calcDistance():
   }
   return jsonify(data) # respond to the API caller with a JSON representation of data
 
-if __name__ == "__main__":
-    app.run(host="127.0.0.1")
+# if __name__ == "__main__":
+#     app.run(host="127.0.0.1")
